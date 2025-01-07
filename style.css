@@ -1,0 +1,28 @@
+/* Custom styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #cfaa42f6;
+}
+
+.section {
+  padding: 60px 0;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+  color: #333333;
+}
+
+p {
+  font-size: 16px;
+  color: #555;
+}
+
+footer {
+  background-color: #343a40;
+}
+
+footer p {
+  margin: 0;
+}
